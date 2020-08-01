@@ -27,7 +27,7 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Chaman Singh and I'm a Backend Developer. Also having experience in iOS and Android Development from scratch to make app live (in play store or app store).
 
   I am most skilled in:
-     - Backend = <mark>Java</mark>, <mark>Spring</mark>, <mark>Spring-Boot</mark>
+     - Backend = <u>Java</u>, <u>Spring</u>, <u>Spring-Boot</u>
      - iOS App Development = <mark>iOS (Swift)</mark>
      - Android App Developement = <mark>Android (Java And Kotlin)</mark>
 
