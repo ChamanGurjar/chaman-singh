@@ -5,8 +5,8 @@
   quote: >
     This is the part of my backend Development learning.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way of learning <mark>Spring-boot</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio.
-  note: This project is the clone of/refrenced from - <link>https://github.com/spring-projects/spring-petclinic</link>
+    I started this project as a way of learning <mark>Spring-boot</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. |
+  NOTE - This project is the clone of/refrenced from - <link>https://github.com/spring-projects/spring-petclinic</link>
 
 - layout: top-middle
   name: SWIFT-UI
