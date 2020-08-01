@@ -6,3 +6,24 @@
   quote: >
   description: | # this will include new lines to allow paragraphs
     Working here as a Backend Developer (Java, Spring, Spring-Boot, Hibernate, Jpa, Liquibase etc)...
+
+
+- layout: left
+  company: Nutritap Technologies Pvt. Ltd.
+  link: https://nutritap.in/
+  job_title: Application Developer
+  dates: April 2019 - May 2020
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+    In Nutritap, I was handling Backend (Java, Spring-Boot) and Mobile App Development (iOS And Android). Nutritap has their own vending machines that user can operate via mobile app. Written the Nutritap iOS App from scratch and made improvements and enhanced functionality in Android App.
+    Also written the backend for smoothly operating the nutritap vending machine via Mobile App.
+
+- layout: left
+  company: Center for Endeavour (CFE) India.
+  link: http://www.cfeindia.in/
+  job_title: Mobile Developer
+  dates: June 2016 - April 2019
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+    I joined CFEINDIA as iOS Developer, but in span of 3 years here developed 2 iOS App, 1 Android App and also developed the backend (Java, Spring, Spring-Boot etc.).
+    In backend I was the part of 3 live projects that was using by the actual user in real time.
