@@ -5,8 +5,9 @@
   quote: >
     This is the part of my backend Development learning.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way of learning <mark>Spring-boot</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. NOTE - This project is the clone of/refrenced from - <link>https://github.com/spring-projects/spring-petclinic</link>
+    I started this project as a way of learning <mark>Spring-boot</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. NOTE - This project is the clone of/refrenced from - [url]https://github.com/spring-projects/spring-petclinic
 
+    
 - layout: top-middle
   name: SWIFT-UI
   link: https://github.com/ChamanGurjar/Swift-UI-HackingWithSwift
@@ -14,4 +15,4 @@
   quote: >
     This is the part of my Swift UI learning.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way of learning <mark>SwiftUI</mark>. I followed the tutorials from <link>https://www.hackingwithswift.com/</link> author-by Paul Hudson.
+    I started this project as a way of learning <mark>SwiftUI</mark>. I followed the tutorials from [url]https://www.hackingwithswift.com author-by Paul Hudson.
