@@ -1,5 +1,5 @@
 - layout: left
-  name: Ajay Kumar Garg Engineering College - Ghaziabad.  <mark>University<mark> : Uttar Pradesh Technical University (UPTU).
+  name: Ajay Kumar Garg Engineering College - Ghaziabad.  <mark>University<mark> - Uttar Pradesh Technical University (UPTU).
   dates: 2013 - 2016
   qualification: Master Of Computer Application (M.C.A)
   description: | # this will include new lines to allow paragraphs
@@ -7,7 +7,7 @@
 
 
 - layout: left
-  name: Bhagwant Institute Of Technology - Muzaffar Nagar.  <mark>University<mark> : Chaudhary Charan Singh University (CCSU).
+  name: Bhagwant Institute Of Technology - Muzaffar Nagar.  <mark>University<mark> - Chaudhary Charan Singh University (CCSU).
   dates: 2010 - 2013
   qualification: Bachelor Of Computer Application (B.C.A)
   description: | # this will include new lines to allow paragraphs
