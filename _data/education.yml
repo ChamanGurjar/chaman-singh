@@ -1,10 +1,25 @@
 - layout: left
-  name: Harvard University
-  dates: 2010 - 2013
-  qualification: BSc Computer Science
-  quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+  name: Ajay Kumar Garg Engineering College - Ghaziabad. | University : Uttar Pradesh Technical University (UPTU).
+  dates: 2013 - 2016
+  qualification: Master Of Computer Application (M.C.A)
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+    I passed MCA from akgec in 2016 by marks above 72% and learned Java And Swift in 4th and 5th Semester. Did the internship as iOS Developer in CFEINDIA Pvt. Ltd in 6th semester.
 
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+
+- layout: left
+  name: Bhagwant Institute Of Technology - Muzaffar Nagar. | University : Chaudhary Charan Singh University (CCSU).
+  dates: 2010 - 2013
+  qualification: Bachelor Of Computer Application (B.C.A)
+  description: | # this will include new lines to allow paragraphs
+    I passed BCA from BIT in 2013 by marks above 68%.
+
+- layout: left
+  name: 12th  | U.P. Board
+  dates: 2010
+  qualification: PCM Group
+
+
+- layout: left
+  name: 10th  | U.P. Board
+  dates: 2008
+  qualification: PCM Group
