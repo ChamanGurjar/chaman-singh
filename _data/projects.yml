@@ -1,7 +1,7 @@
 - layout: top-middle
   name: Nutritap Kiosk
   quote: >
-     <mark>Technology<mark> = Java, Spring Boot, JPA, Liquibase, Mysql, Redis.
+     <mark>Technology</mark> = <u>Java, Spring Boot, JPA, Liquibase, Mysql, Redis.</u>
   description: | # this will include new lines to allow paragraphs
     Nutritap has their own vending machines that user can operate via mobile app. In this project I wrote the functionality related to User login, access based on roles, Kiosk configuration, sales capturing, payment confirmation, order for a - user, location or kiosk, coupon functionality and referral functionality etc.
     Nutritap also fills these kiosks/vending machine also wrote the functionality to capture the filling details like which nutritap filler is filling what product and how many quantities for which machine and location. Also developed a flow to capture the incoming and outgoing of orders/products on warehouse level.
@@ -10,7 +10,7 @@
   name: Nutritap Kiosk - iOS App
   link:  https://apps.apple.com/app/id1473560100
   quote: >
-     <mark>Technology<mark> = iOS - Swift
+     <mark>Technology</mark> = <u>iOS - Swift</u>
   description: | # this will include new lines to allow paragraphs
      By downloading this app user can register himself in nutritap system and can access their smart kiosk. Can select the product he wants to buy and will open kiosk, pick the product and pay via upi, cc, debit card or paytm etc and can enjoy his drink/snacks.
 
@@ -18,14 +18,14 @@
   name: Nutritap Kiosk - Android App
   link:  https://play.google.com/store/apps/details?id=in.nutritap.kioskapp
   quote: >
-     <mark>Technology<mark> = Android (Java, XML)
+     <mark>Technology</mark> = <u>Android (Java, XML)</u>
   description: | # this will include new lines to allow paragraphs
      Implemented digital payment and coupon functionality in this app.
 
 - layout: top-middle
   name: Nutritap Filler - Android App
   quote: >
-     <mark>Technology<mark> = Android (Kotlin, XML)
+     <mark>Technology</mark> = <u>Android (Kotlin, XML)</u>
   description: | # this will include new lines to allow paragraphs
     With the help of this app filler updates about the filling, which product, how many quantity etc he filled in for which machine.
 
@@ -33,7 +33,7 @@
   name: Huksa - Android App
   link: https://play.google.com/store/apps/details?id=com.huksalabs.app
   quote: >
-     <mark>Technology<mark> = Android (Java, XML)
+     <mark>Technology</mark> = <u>Android (Java, XML)</u>
   description: | # this will include new lines to allow paragraphs
      Huksa is a mobile app that helps you to create and manage your professional networks, invite paid or free experts for the benefit of members and monetise the private interactions. Also provides meeting over audio, video call and one to one and group conversation.
 
@@ -41,7 +41,7 @@
   name: Huksa - iOS App
   link: https://goo.gl/Qjryhz
   quote: >
-     <mark>Technology<mark> = iOS - Swift
+     <mark>Technology</mark> = <u>iOS - Swift</u>
   description: | # this will include new lines to allow paragraphs
      Huksa is a mobile app that helps you to create and manage your professional networks, invite paid or free experts for the benefit of members and monetise the private interactions. Also provides meeting over audio, video call and one to one and group conversation.
 
