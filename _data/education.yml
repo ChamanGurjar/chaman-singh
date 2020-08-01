@@ -3,7 +3,7 @@
   dates: 2013 - 2016
   qualification: Master Of Computer Application (M.C.A)
   description: | # this will include new lines to allow paragraphs
-    I passed MCA from akgec in 2016 by marks above 72% and learned Java And Swift in 4th and 5th Semester. Did the internship as iOS Developer in CFEINDIA Pvt. Ltd in 6th semester.
+    I passed MCA from akgec in 2016 by marks above 72%. I learned Java And Swift in 4th and 5th Semester respectively. Did the internship as iOS Developer in CFEINDIA Pvt. Ltd in 6th semester.
 
 
 - layout: left
@@ -16,10 +16,12 @@
 - layout: left
   name: 12th  <mark>U.P. Board<mark>
   dates: 2010
-  qualification: PCM Group
+  description: | # this will include new lines to allow paragraphs
+    I passed 12th from Uttar Pradesh Board (Hindi Medium) in Physics, Chemistry and Math (P.C.M. Group) in 2010.
 
 
 - layout: left
   name: 10th  <mark>U.P. Board<mark>
   dates: 2008
-  qualification: PCM Group
+  description: | # this will include new lines to allow paragraphs
+    I passed 10th from Uttar Pradesh Board (Hindi Medium) in science stream in 2010.
